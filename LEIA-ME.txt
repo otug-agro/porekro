@@ -1,0 +1,16 @@
+ARQUIVOS EDITÁVEIS — ASSOCIAÇÃO POREKRÔ
+
+Como visualizar
+1. Extraia o arquivo ZIP.
+2. Abra index.html em um navegador.
+
+Como editar
+- Textos, links e estrutura: index.html
+- Cores, fontes, espaçamentos e responsividade: styles.css
+- Logotipo e fotografia: pasta assets
+
+As imagens podem ser substituídas mantendo os mesmos nomes de arquivo. Se usar
+nomes diferentes, atualize também os caminhos correspondentes em index.html.
+
+Depois das alterações, você pode enviar a pasta ou um novo ZIP para que a versão
+publicada seja atualizada.
